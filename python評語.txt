@@ -1,0 +1,6 @@
+pycodestyle --ignore=E121,E123,E126,E133,E226,E704,W503,W504,W505,E501,W292,W391 C:/Users/user/Desktop/HW7-4.py
+
+
+pycodestyle --ignore=E121,E123,E126,E133,E226,E704,W503,W504,W505,E501,W292,W391 C:/Users/user/Desktop/該怎麼找錢(進階版).py
+
+pyinstaller -F -D -w .\期末專案.py
